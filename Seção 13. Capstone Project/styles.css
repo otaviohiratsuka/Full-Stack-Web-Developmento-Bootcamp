@@ -12,9 +12,7 @@
 
   animation: gradient-animation 18s ease infinite;
 
-  height: 100vh;
-  min-height: 80rem;
-  max-height: 120rem;
+  height: 100dvh;
   position: relative;
 }
 
@@ -41,3 +39,4 @@
   object-fit: cover; 
   border-radius: 50%;
 }
+
